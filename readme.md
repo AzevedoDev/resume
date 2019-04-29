@@ -56,7 +56,7 @@ CloneSpotify(https://github.com/AzevedoDev/clone_spotify)
 
 **Formação Front-end - Caelum** / Setembro 2017 - Outubro 2017
 
-Mirror Fashion(https://github.com/AzevedoDev/Caelum_Mirror)</br>
+Mirror Fashion(https://github.com/AzevedoDev/Caelum_Mirror)
 To do List(https://github.com/AzevedoDev/ResponsiveApp)
 
 ## Cursos
