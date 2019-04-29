@@ -52,11 +52,13 @@ Passo meu tempo livre ajudando a comunidade open source, estudando, jogando ou a
 **Desenvolvimento Web Full Stack - Rocketseat** / Fevereiro 2018 - Em andamento
 
 GoBarber(https://github.com/AzevedoDev/bootcamp-rocketseat-gobarber)
+
 CloneSpotify(https://github.com/AzevedoDev/clone_spotify)
 
 **Formação Front-end - Caelum** / Setembro 2017 - Outubro 2017
 
 Mirror Fashion(https://github.com/AzevedoDev/Caelum_Mirror)
+
 To do List(https://github.com/AzevedoDev/ResponsiveApp)
 
 ## Cursos
